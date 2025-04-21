@@ -26,5 +26,5 @@ by _Julien Barbier_
 * [x] 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).

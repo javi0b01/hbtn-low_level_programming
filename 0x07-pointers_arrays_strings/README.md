@@ -29,5 +29,5 @@ by _Julien Barbier_
 * [ ] 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).
